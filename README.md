@@ -17,10 +17,9 @@ Supporting Local Laborers: We are committed to providing opportunities for indiv
 Upcoming Functionality: We are continuously working on enhancing our platform to better serve our users. One of our upcoming features is the addition of a nearby jobs functionality. This new feature will further improve the user experience by presenting job seekers with a curated list of opportunities in close proximity to their location, ensuring they can find work conveniently and efficiently.
 
 ### Application Images:  
-                                                                              
-<img src="images/LOGIN screen.jpg" width="240" height="450">                                  <img src="images/SIGNUP screen.jpg" width="240" height="450">
-<img src="images/JOBS mentioned.jpg" width="240" height="450">                                 <img src="images/chat screen.jpeg" width="240" height="450">
-<img src="images/profile.jpg" width="240" height="450">                                 <img src="images/myjobdata.jpeg" width="240" height="450">
-<img src="images/job adding screen.jpg" width="240" height="450">                                  <img src="images/myjobdata.jpeg" width="240" height="450">
- 
+
+<img src="https://github.com/vishakha0411/HireASkill/assets/82572740/dfdd09dd-a9a9-42b1-950b-f3d37d3dbb66=240x450screenshot.png" alt="Screenshot" width="30%">
+<img src="https://github.com/vishakha0411/HireASkill/assets/82572740/fd11aba1-95ef-497d-bb5e-7007931a9631=240x450screenshot.png" alt="Screenshot" width="30%">
+<img src="https://github.com/vishakha0411/HireASkill/assets/82572740/10f338d6-03e7-4004-8070-b5aa0d465c2e=240x450screenshot.png" alt="Screenshot" width="30%">
+
 
